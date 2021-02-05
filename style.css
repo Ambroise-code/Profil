@@ -1,0 +1,19 @@
+img{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	object-fit: cover;
+	object-position: top;
+}
+
+div{
+	background-color: lightgrey;
+	padding: 30px;
+	margin: 20px auto;
+	width: 700px;	
+}
+
+#intro { 
+	background-color: transparent;
+	text-align: center;
+}
